@@ -175,7 +175,7 @@ li {
 }
 
 .dark-mode .home {
-    background: url(assets/images/dark-bg.webp) center/cover no-repeat;
+    background: url('assets/images/dark-bg.webp') center/cover no-repeat;
 }
 
 /* NAVIGATION */
@@ -260,7 +260,7 @@ li {
 /* HOME */
 
 .home {
-    background: url(assets/images/bg.webp) center/cover no-repeat;
+    background: url('assets/images/bg-400w.webp') center/cover no-repeat;
     height: 100vh;
 }
 
@@ -809,3 +809,54 @@ li {
             "i"
     }
 }
+
+/* RESPONSIVE BACKGROUND */
+
+  @media (max-width: 600px) {
+    .home {
+      background: url('assets/images/bg-600w.webp') center/cover no-repeat;
+    }
+    .dark-mode .home {
+        background: url('assets/images/dark-bg-600w.webp') center/cover no-repeat;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .home {
+      background: url('assets/images/bg-800w.webp') center/cover no-repeat;
+    }
+    .dark-mode .home {
+        background: url('assets/images/dark-bg-800w.webp') center/cover no-repeat;
+    }
+  }
+  
+  @media (max-width: 1000px) {
+    .home {
+      background: url('assets/images/bg-800w.webp') center/cover no-repeat;
+    }
+    .dark-mode .home {
+        background: url('assets/images/dark-bg-800w.webp') center/cover no-repeat;
+    }
+  }
+  
+  @media (max-width: 1200px) {
+    .home {
+      background: url('assets/images/bg-1200w.webp') center/cover no-repeat;
+    }
+    .dark-mode .home {
+        background: url('assets/images/dark-bg-1200w.webp') center/cover no-repeat;
+    }
+  }
+  
+  @media (max-width: 1600px) {
+    .home {
+      background: url('assets/images/bg-1600w.webp') center/cover no-repeat;
+    }
+  }
+  
+  @media (min-width: 1601px) {
+    .home {
+      background: url('assets/images/bg-2000w.webp') center/cover no-repeat;
+    }
+  }
+  
