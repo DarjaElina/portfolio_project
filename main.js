@@ -8,10 +8,6 @@ const backToTop = () => {
     document.documentElement.scrollTop = 0;
 }
 
-
-
-window.onscroll = function() {scrollFunction()};
-
 function scrollFunction() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
         document.querySelector('#back-to-top').style.display = "block";
@@ -19,6 +15,10 @@ function scrollFunction() {
         document.querySelector('#back-to-top').style.display = "none";
     }
 }
+
+window.onscroll = function() {
+    scrollFunction()
+};
 
 const toggleElementVisibility = () => {
     overlay.classList.remove('active');

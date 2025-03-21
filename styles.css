@@ -442,6 +442,7 @@ li {
 
 .arrow img {
     width: 100%;
+    height: auto;
 }
 
 /* CONTACT */
