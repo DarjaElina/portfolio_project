@@ -175,7 +175,7 @@ li {
 }
 
 .dark-mode .home {
-    background: url(assets/images/dark-bg.jpg) center/cover no-repeat;
+    background: url(assets/images/dark-bg.webp) center/cover no-repeat;
 }
 
 /* NAVIGATION */
@@ -260,7 +260,7 @@ li {
 /* HOME */
 
 .home {
-    background: url(assets/images/bg.jpg) center/cover no-repeat;
+    background: url(assets/images/bg.webp) center/cover no-repeat;
     height: 100vh;
 }
 
