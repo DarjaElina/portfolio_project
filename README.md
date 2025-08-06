@@ -20,7 +20,8 @@ Check it out [here](https://portfolio-project-iota-tan.vercel.app/)
 
 ### Projects Included
 - [Room Reservation App](https://github.com/DarjaElina/room-reservation-app)  
-- [Mindfulness App](https://github.com/DarjaElina/wellnest-frontend)  
+- [Mindfulness App](https://github.com/DarjaElina/wellnest-frontend)
+- [Personality Quiz](https://uzbek-pie-quiz.vercel.app/)
 - [Finnish Flashcards App](https://github.com/DarjaElina/finnish-flashcard-app-frontend)  
 - [Pancake Customization App](https://github.com/DarjaElina/pancake_maker)  
 - [Finnish Event Planner](https://github.com/DarjaElina/event-planner-frontend)  
