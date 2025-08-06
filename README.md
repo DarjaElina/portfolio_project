@@ -23,7 +23,5 @@ Check it out [here](https://portfolio-project-iota-tan.vercel.app/)
 - [Mindfulness App](https://github.com/DarjaElina/wellnest-frontend)
 - [Personality Quiz](https://uzbek-pie-quiz.vercel.app/)
 - [Finnish Flashcards App](https://github.com/DarjaElina/finnish-flashcard-app-frontend)  
-- [Pancake Customization App](https://github.com/DarjaElina/pancake_maker)  
-- [Finnish Event Planner](https://github.com/DarjaElina/event-planner-frontend)  
-  (Built together with [Ethiopica](https://github.com/Ethiopica) and [Basudev-Pokharel](https://github.com/Basudev-Pokharel))
+- [Pancake Customization App](https://github.com/DarjaElina/pancake_maker) 
 
