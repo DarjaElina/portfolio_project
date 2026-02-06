@@ -19,9 +19,5 @@ Check it out [here](https://portfolio-project-iota-tan.vercel.app/)
 - [AOS](https://michalsnik.github.io/aos/) – for scroll animations
 
 ### Projects Included
-- [Room Reservation App](https://github.com/DarjaElina/room-reservation-app)  
-- [Mindfulness App](https://github.com/DarjaElina/wellnest-frontend)
-- [Personality Quiz](https://uzbek-pie-quiz.vercel.app/)
-- [Finnish Flashcards App](https://github.com/DarjaElina/finnish-flashcard-app-frontend)  
-- [Pancake Customization App](https://github.com/DarjaElina/pancake_maker) 
+- [Room Reservation App](https://github.com/DarjaElina/room-reservation-app)
 - Moving Company Website (private repository)
